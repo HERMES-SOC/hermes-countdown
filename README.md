@@ -1,3 +1,3 @@
 # HERMES Launch Countdown Clock
 
-# 1001 days
+# 1000 days
