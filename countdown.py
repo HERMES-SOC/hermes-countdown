@@ -1,6 +1,6 @@
 from datetime import datetime
 
-LAUNCH_DATE = datetime(2025,10,01)
+LAUNCH_DATE = datetime(2025,10,1)
 
 days_to_launch = LAUNCH_DATE - datetime.now()
 
