@@ -1,6 +1,6 @@
 # HERMES Launch Countdown Clock
 
 Launch date (No Earlier Than): Wednesday, October 01 2025
-# 693 days
+# 692 days
 
-Last Updated Tuesday, November 07 2023
+Last Updated Wednesday, November 08 2023
